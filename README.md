@@ -13,4 +13,4 @@ Screenshot: ![image](https://github.com/dannadlerp/passwordgenerator/assets/1422
 URL to deployed App: https://dannadlerp.github.io/passwordgenerator/
 
 Sources:
-https://stackoverflow.com/questions/44114924/javascript-password-generator-multiple-random-values-from-array
+https://stackoverflow.com/questions/44114924/javascript-password-generator-multiple-random-values-from-array (script.js line 53, 54)
