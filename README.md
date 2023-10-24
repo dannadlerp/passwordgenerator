@@ -6,7 +6,8 @@ Acceptance criteria:
 Page loads without errors and generates password correctly based on user input criteria.
 
 
-Screenshot:
+Screenshot: ![image](https://github.com/dannadlerp/passwordgenerator/assets/142226474/6d70f95f-3055-4ff7-8325-1e68ed76131d)
+
 
 URL to deployed App:
 
