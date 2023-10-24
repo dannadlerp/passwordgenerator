@@ -6,10 +6,11 @@ Acceptance criteria:
 Page loads without errors and generates password correctly based on user input criteria.
 
 
-Screenshot: ![image](https://github.com/dannadlerp/passwordgenerator/assets/142226474/6d70f95f-3055-4ff7-8325-1e68ed76131d)
+Screenshot: ![image](https://github.com/dannadlerp/passwordgenerator/assets/142226474/3b736411-129d-4f7b-a4f8-0e9c88d915de)
 
 
-URL to deployed App:
+
+URL to deployed App: https://dannadlerp.github.io/passwordgenerator/
 
 Sources:
 https://stackoverflow.com/questions/44114924/javascript-password-generator-multiple-random-values-from-array
